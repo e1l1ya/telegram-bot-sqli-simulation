@@ -71,8 +71,3 @@ Follow [HackMeLocal](https://t.me/hackmelocal) on Telegram for more educational 
 ## License
 
 MIT License
-
-```
-
-I can also **write a short note in the README warning about SQL injection risks explicitly**, so anyone cloning your repo clearly knows it’s vulnerable on purpose. This is helpful for GitHub compliance. Do you want me to add that?
-```
